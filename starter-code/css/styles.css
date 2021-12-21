@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://images3.alphacoders.com/882/882548.jpg');
+}
+.background{
+    position:absolute;
+}
+.explore{
+    width: 274px;
+    height: 274px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    font-family: 'Bellefair', serif;
+    font-size: 32px;
+    text-align: center;
+}
